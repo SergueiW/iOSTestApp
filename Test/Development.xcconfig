@@ -1,0 +1,11 @@
+//
+//  Development.xcconfig
+//  Test
+//
+//  Created by Serguei Diaz on 14/10/22.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+BASE_URL=api.themoviedb.org
+TOKEN=9862f2b81236797722ff68b1cbbabcb8
